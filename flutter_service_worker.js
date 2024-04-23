@@ -12,8 +12,8 @@ const RESOURCES = {"assets/AssetManifest.bin": "6cf230984013db1888b0e93625c23382
 "assets/assets/fonts/Ubuntu/Ubuntu-Regular.ttf": "84ea7c5c9d2fa40c070ccb901046117d",
 "assets/assets/images/transparent.png": "ebdeac6cb5c5e658f02a51d475177ee4",
 "assets/FontManifest.json": "dd2a0078ba06c7dd1adb6091b74c0751",
-"assets/fonts/MaterialIcons-Regular.otf": "bb7c43cc68a670531fdc6e27d79e3a32",
-"assets/NOTICES": "fed27ff7708ccbf4f4fe07586fe2b61b",
+"assets/fonts/MaterialIcons-Regular.otf": "09f3c64490976db412d720e8ab8b89ba",
+"assets/NOTICES": "deef3e56ea6da0cda3ad1b713a7150c1",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "d9616675159e437e20f7826df75621e4",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "f3307f62ddff94d2cd8b103daf8d1b0f",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "04f83c01dded195a11d21c2edf643455",
@@ -31,9 +31,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "6cf230984013db1888b0e93625c23382
 "favicon.png": "ac6ee1a81fd44e3d06d1d984e7869519",
 "flutter.js": "c71a09214cb6f5f8996a531350400a9a",
 "icons/Icon-192.png": "29ce927b40f63d26da6f2b40d79e0547",
-"index.html": "785a6266d9d667cedbc5954eef24049a",
-"/": "785a6266d9d667cedbc5954eef24049a",
-"main.dart.js": "e693d3c3ccc2d530154373a15b7380d6",
+"index.html": "80ed661722c90f89ab3af4c72e82eafa",
+"/": "80ed661722c90f89ab3af4c72e82eafa",
+"main.dart.js": "f1ed47a2432cd28c60c70bfd7bd5fe3a",
 "manifest.json": "34d7a93a24a9edfdcbc76b9763f73a11",
 "version.json": "11e1a177d57c5da2bc6e3a6acc3010f4"};
 // The application shell files that are downloaded before a service worker can
