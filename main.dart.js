@@ -89443,37 +89443,35 @@ B.b.F(k,q)}}k.push(A.bB(50))
 k=A.h7(k,B.aG,B.P,B.Q)
 return new A.NW(k,o)}}
 A.QM.prototype={
-eh(a,b){var s,r,q,p,o,n,m,l,k,j=null,i=b.hH($.h4().ghE(),t.hQ),h=i.f===B.K?B.i.dk(B.d.bz(0.05,0,1)):B.b7.dk(B.d.bz(0.05,0,1)),g=A.hD(20),f=this.e,e=A.kh(5,A.aIy(f.e,250,j),j,j,j,0,5,j),d=i.f===B.K?B.i.dk(B.d.bz(0.05,0,1)):B.b7.dk(B.d.bz(0.05,0,1)),c=A.hD(15)
-c=A.eZ(j,j,B.u,j,j,new A.dB(d,A.aCE(B.iH,new A.oT(f.d,1,j,B.lI),j),j,c,j,j,B.aL),j,60,j,j,j,j,60)
-d=A.bB(15)
-s=i.f===B.K?B.i:B.b7
+eh(a,b){var s,r,q,p,o,n,m,l,k=null,j=b.hH($.h4().ghE(),t.hQ),i=j.f===B.K?B.i.dk(B.d.bz(0.05,0,1)):B.b7.dk(B.d.bz(0.05,0,1)),h=A.hD(20),g=this.e,f=A.kh(5,A.aIy(g.e,250,k),k,k,k,0,5,k),e=j.f===B.K?B.i.dk(B.d.bz(0.05,0,1)):B.b7.dk(B.d.bz(0.05,0,1)),d=A.hD(15)
+d=A.eZ(k,k,B.u,k,k,new A.dB(e,A.aCE(B.iH,new A.oT(g.d,1,k,B.lI),k),k,d,k,k,B.aL),k,60,k,k,k,k,60)
+e=A.bB(15)
+s=j.f===B.K?B.i:B.b7
 r=t.p
-q=f.f
+q=g.f
 p=q.length!==0
-o=f.r
+o=g.r
 n=o.length!==0
-m=f.w
-l=f.x
-k=l.length!==0
-return A.eZ(j,A.lH(B.bS,A.b([e,new A.cL(new A.aS(20,20,20,20),A.h7(A.b([A.fx(A.b([c,d,A.Lq(f.b,s,"extraBold",22,j,b)],r),B.S,B.P,B.Q),A.e0(A.jV(f.c,!1,j,j,j,j,0.6,b),j,this.a_B(a)),A.fx(A.b([A.e0(j,38,0),A.iX(A.tM("assets/svg/playStoreIcon.svg","Get it on","Play Store",q),!1,!1,!1,p),A.iX(A.bB(10),!1,!1,!1,p),A.iX(A.tM("assets/svg/appStoreIcon.svg","Download on the","App Store",o),!1,!1,!1,n),A.iX(A.bB(10),!1,!1,!1,n),A.iX(A.tM("assets/svg/githubIcon.svg","Check repo on","GitHub",m),!1,!1,!1,m.length!==0),A.iX(A.bB(10),!1,!1,!1,k),A.iX(A.tM("assets/svg/web.svg","Visit the","Website",l),!1,!1,!1,k)],r),B.S,B.P,B.Q)],r),B.aG,B.ul,B.Q),j)],r),B.Z,B.bN),B.u,j,j,new A.dB(h,j,j,g,j,j,B.aL),j,350,new A.aS(0,15,0,15),j,j,j,j)},
+m=g.w
+l=m.length!==0
+return A.eZ(k,A.lH(B.bS,A.b([f,new A.cL(new A.aS(20,20,20,20),A.h7(A.b([A.fx(A.b([d,e,A.Lq(g.b,s,"extraBold",22,k,b)],r),B.S,B.P,B.Q),A.e0(A.jV(g.c,!1,k,k,k,k,0.6,b),k,this.a_B(a)),A.fx(A.b([A.e0(k,38,0),A.iX(A.tM("assets/svg/playStoreIcon.svg","Get it on","Play Store",q),!1,!1,!1,p),A.iX(A.bB(10),!1,!1,!1,p),A.iX(A.tM("assets/svg/appStoreIcon.svg","Download on the","App Store",o),!1,!1,!1,n),A.iX(A.bB(10),!1,!1,!1,n),A.iX(A.tM("assets/svg/githubIcon.svg","Check repo on","GitHub",m),!1,!1,!1,l),A.iX(A.bB(10),!1,!1,!1,l),A.iX(A.tM("assets/svg/web.svg","Visit the","Website",g.x),!1,!1,!1,l)],r),B.S,B.P,B.Q)],r),B.aG,B.ul,B.Q),k)],r),B.Z,B.bN),B.u,k,k,new A.dB(i,k,k,h,k,k,B.aL),k,350,new A.aS(0,15,0,15),k,k,k,k)},
 a_B(a){var s=t.w
 if(A.bH(a,B.aE,s).w.a.a>675&&A.bH(a,B.aE,s).w.a.a<1050)return 50*A.bH(a,B.aE,s).w.a.a/100
 else if(A.bH(a,B.aE,s).w.a.a>1050)return 600
 else return A.bH(a,B.aE,s).w.a.a*0.35}}
 A.QN.prototype={
-eh(a,a0){var s,r,q,p,o,n,m,l,k,j=null,i=a0.hH($.h4().ghE(),t.hQ),h=i.f===B.K?B.i.dk(B.d.bz(0.05,0,1)):B.b7.dk(B.d.bz(0.05,0,1)),g=A.hD(20),f=this.e,e=A.aIy(f.e,j,350),d=A.bB(20),c=i.f===B.K?B.i.dk(B.d.bz(0.05,0,1)):B.b7.dk(B.d.bz(0.05,0,1)),b=A.hD(15)
-b=A.eZ(j,j,B.u,j,j,new A.dB(c,A.aCE(B.iH,new A.oT(f.d,1,j,B.lI),j),j,b,j,j,B.aL),j,45,j,j,j,j,45)
-c=A.bB(10)
-s=i.f===B.K?B.i:B.b7
+eh(a,b){var s,r,q,p,o,n,m,l,k=null,j=b.hH($.h4().ghE(),t.hQ),i=j.f===B.K?B.i.dk(B.d.bz(0.05,0,1)):B.b7.dk(B.d.bz(0.05,0,1)),h=A.hD(20),g=this.e,f=A.aIy(g.e,k,350),e=A.bB(20),d=j.f===B.K?B.i.dk(B.d.bz(0.05,0,1)):B.b7.dk(B.d.bz(0.05,0,1)),c=A.hD(15)
+c=A.eZ(k,k,B.u,k,k,new A.dB(d,A.aCE(B.iH,new A.oT(g.d,1,k,B.lI),k),k,c,k,k,B.aL),k,45,k,k,k,k,45)
+d=A.bB(10)
+s=j.f===B.K?B.i:B.b7
 r=t.p
-q=f.f
+q=g.f
 p=q.length!==0
-o=f.r
+o=g.r
 n=o.length!==0
-m=f.w
-l=f.x
-k=l.length!==0
-return A.eZ(j,new A.cL(new A.aS(20,20,20,20),A.h7(A.b([new A.h6(B.iy,j,j,e,j),d,A.fx(A.b([b,c,new A.vO(1,B.nT,A.Lq(f.b,s,"extraBold",20,j,a0),j)],r),B.S,B.P,B.Q),A.bB(20),A.jV(f.c,!1,j,j,j,j,0.6,a0),A.bB(20),A.fx(A.b([A.e0(j,38,0),A.iX(A.tM("assets/svg/playStoreIcon.svg","Get it on","Play Store",q),!1,!1,!1,p),A.iX(A.bB(10),!1,!1,!1,p),A.iX(A.tM("assets/svg/appStoreIcon.svg","Download on the","App Store",o),!1,!1,!1,n),A.iX(A.bB(10),!1,!1,!1,n),A.iX(A.tM("assets/svg/githubIcon.svg","Check repo on","GitHub",m),!1,!1,!1,m.length!==0),A.iX(A.bB(10),!1,!1,!1,k),A.iX(A.tM("assets/svg/web.svg","Visit the","Website",l),!1,!1,!1,k)],r),B.S,B.P,B.Q)],r),B.aG,B.P,B.Q),j),B.u,j,j,new A.dB(h,j,j,g,j,j,B.aL),j,j,new A.aS(0,15,0,15),j,j,j,j)}}
+m=g.w
+l=m.length!==0
+return A.eZ(k,new A.cL(new A.aS(20,20,20,20),A.h7(A.b([new A.h6(B.iy,k,k,f,k),e,A.fx(A.b([c,d,new A.vO(1,B.nT,A.Lq(g.b,s,"extraBold",20,k,b),k)],r),B.S,B.P,B.Q),A.bB(20),A.jV(g.c,!1,k,k,k,k,0.6,b),A.bB(20),A.fx(A.b([A.e0(k,38,0),A.iX(A.tM("assets/svg/playStoreIcon.svg","Get it on","Play Store",q),!1,!1,!1,p),A.iX(A.bB(10),!1,!1,!1,p),A.iX(A.tM("assets/svg/appStoreIcon.svg","Download on the","App Store",o),!1,!1,!1,n),A.iX(A.bB(10),!1,!1,!1,n),A.iX(A.tM("assets/svg/githubIcon.svg","Check repo on","GitHub",m),!1,!1,!1,l),A.iX(A.bB(10),!1,!1,!1,l),A.iX(A.tM("assets/svg/web.svg","Visit the","Website",g.x),!1,!1,!1,l)],r),B.S,B.P,B.Q)],r),B.aG,B.P,B.Q),k),B.u,k,k,new A.dB(i,k,k,h,k,k,B.aL),k,k,new A.aS(0,15,0,15),k,k,k,k)}}
 A.T5.prototype={
 eh(a,b){var s=b.hH($.h4().ghE(),t.hQ)
 return A.ke(new A.ao2(this,A.bH(a,B.aE,t.w).w.a.a<675,s,b))}}
